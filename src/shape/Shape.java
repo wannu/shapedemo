@@ -16,6 +16,9 @@ public class Shape {
      */
     public static void main(String[] args) {
          double radius;
+        int a;
+        radius=10.5;
+        System.out.println("hello");
     }
 
 }
